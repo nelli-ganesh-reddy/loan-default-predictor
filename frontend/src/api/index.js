@@ -1,5 +1,5 @@
 // base URL of our FastAPI backend
-const BASE_URL = 'https://psychic-cod-jj7v4rprx69wfpj79-8000.app.github.dev'
+const BASE_URL = 'https://loan-default-predictor-9np8.onrender.com/'
 
 // send form data to backend and get prediction
 export const getPrediction = async (formData) => {
