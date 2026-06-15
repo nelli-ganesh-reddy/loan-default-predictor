@@ -6,7 +6,7 @@ function Navbar() {
       
       {/* left side - app name */}
       <h1 className="text-xl font-bold">
-        🏦 Loan Default Predictor
+        Loan Default Predictor
       </h1>
 
       {/* right side - navigation links */}
